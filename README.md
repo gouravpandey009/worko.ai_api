@@ -3,7 +3,7 @@
 
 Welcome to Worko.ai Backend! This project provides a robust API service to assist job seekers in their quest for employment. It offers user management functionalities, authentication mechanisms, and various services to enhance the job search experience.
 
-Features 🛠️
+## Features 🛠️
 
 - User Management:CRUD operations for managing user data.
 - Authentication: Secure API endpoints using JWT (JSON Web Tokens).
@@ -11,7 +11,7 @@ Features 🛠️
 - Error Handling: Middleware for logging and error management.
 - Testing: Unit tests with coverage for quality assurance.
 
-Architecture 🏛️
+## Architecture 🏛️
 
 Worko.ai Backend follows the Model-View-Controller (MVC) architecture, with components structured as follows:
 
