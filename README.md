@@ -3,7 +3,7 @@ Absolutely! Here's a comprehensive README.md file with documentation and additio
 ```markdown
 # Worko.ai Backend 🚀
 
-![Worko.ai Logo](/assets/backend.PNG)
+![Worko.ai Logo](assets/backend.PNG)
 
 ## Introduction ℹ️
 
