@@ -1,10 +1,6 @@
 Absolutely! Here's a comprehensive README.md file with documentation and additional information, including emojis for added flair:
 
 ```markdown
-# Worko.ai Backend 🚀
-
-![Worko.ai Logo](assets/backend.PNG)
-
 ## Introduction ℹ️
 
 Welcome to Worko.ai Backend! This project provides a robust API service to assist job seekers in their quest for employment. It offers user management functionalities, authentication mechanisms, and various services to enhance the job search experience.
